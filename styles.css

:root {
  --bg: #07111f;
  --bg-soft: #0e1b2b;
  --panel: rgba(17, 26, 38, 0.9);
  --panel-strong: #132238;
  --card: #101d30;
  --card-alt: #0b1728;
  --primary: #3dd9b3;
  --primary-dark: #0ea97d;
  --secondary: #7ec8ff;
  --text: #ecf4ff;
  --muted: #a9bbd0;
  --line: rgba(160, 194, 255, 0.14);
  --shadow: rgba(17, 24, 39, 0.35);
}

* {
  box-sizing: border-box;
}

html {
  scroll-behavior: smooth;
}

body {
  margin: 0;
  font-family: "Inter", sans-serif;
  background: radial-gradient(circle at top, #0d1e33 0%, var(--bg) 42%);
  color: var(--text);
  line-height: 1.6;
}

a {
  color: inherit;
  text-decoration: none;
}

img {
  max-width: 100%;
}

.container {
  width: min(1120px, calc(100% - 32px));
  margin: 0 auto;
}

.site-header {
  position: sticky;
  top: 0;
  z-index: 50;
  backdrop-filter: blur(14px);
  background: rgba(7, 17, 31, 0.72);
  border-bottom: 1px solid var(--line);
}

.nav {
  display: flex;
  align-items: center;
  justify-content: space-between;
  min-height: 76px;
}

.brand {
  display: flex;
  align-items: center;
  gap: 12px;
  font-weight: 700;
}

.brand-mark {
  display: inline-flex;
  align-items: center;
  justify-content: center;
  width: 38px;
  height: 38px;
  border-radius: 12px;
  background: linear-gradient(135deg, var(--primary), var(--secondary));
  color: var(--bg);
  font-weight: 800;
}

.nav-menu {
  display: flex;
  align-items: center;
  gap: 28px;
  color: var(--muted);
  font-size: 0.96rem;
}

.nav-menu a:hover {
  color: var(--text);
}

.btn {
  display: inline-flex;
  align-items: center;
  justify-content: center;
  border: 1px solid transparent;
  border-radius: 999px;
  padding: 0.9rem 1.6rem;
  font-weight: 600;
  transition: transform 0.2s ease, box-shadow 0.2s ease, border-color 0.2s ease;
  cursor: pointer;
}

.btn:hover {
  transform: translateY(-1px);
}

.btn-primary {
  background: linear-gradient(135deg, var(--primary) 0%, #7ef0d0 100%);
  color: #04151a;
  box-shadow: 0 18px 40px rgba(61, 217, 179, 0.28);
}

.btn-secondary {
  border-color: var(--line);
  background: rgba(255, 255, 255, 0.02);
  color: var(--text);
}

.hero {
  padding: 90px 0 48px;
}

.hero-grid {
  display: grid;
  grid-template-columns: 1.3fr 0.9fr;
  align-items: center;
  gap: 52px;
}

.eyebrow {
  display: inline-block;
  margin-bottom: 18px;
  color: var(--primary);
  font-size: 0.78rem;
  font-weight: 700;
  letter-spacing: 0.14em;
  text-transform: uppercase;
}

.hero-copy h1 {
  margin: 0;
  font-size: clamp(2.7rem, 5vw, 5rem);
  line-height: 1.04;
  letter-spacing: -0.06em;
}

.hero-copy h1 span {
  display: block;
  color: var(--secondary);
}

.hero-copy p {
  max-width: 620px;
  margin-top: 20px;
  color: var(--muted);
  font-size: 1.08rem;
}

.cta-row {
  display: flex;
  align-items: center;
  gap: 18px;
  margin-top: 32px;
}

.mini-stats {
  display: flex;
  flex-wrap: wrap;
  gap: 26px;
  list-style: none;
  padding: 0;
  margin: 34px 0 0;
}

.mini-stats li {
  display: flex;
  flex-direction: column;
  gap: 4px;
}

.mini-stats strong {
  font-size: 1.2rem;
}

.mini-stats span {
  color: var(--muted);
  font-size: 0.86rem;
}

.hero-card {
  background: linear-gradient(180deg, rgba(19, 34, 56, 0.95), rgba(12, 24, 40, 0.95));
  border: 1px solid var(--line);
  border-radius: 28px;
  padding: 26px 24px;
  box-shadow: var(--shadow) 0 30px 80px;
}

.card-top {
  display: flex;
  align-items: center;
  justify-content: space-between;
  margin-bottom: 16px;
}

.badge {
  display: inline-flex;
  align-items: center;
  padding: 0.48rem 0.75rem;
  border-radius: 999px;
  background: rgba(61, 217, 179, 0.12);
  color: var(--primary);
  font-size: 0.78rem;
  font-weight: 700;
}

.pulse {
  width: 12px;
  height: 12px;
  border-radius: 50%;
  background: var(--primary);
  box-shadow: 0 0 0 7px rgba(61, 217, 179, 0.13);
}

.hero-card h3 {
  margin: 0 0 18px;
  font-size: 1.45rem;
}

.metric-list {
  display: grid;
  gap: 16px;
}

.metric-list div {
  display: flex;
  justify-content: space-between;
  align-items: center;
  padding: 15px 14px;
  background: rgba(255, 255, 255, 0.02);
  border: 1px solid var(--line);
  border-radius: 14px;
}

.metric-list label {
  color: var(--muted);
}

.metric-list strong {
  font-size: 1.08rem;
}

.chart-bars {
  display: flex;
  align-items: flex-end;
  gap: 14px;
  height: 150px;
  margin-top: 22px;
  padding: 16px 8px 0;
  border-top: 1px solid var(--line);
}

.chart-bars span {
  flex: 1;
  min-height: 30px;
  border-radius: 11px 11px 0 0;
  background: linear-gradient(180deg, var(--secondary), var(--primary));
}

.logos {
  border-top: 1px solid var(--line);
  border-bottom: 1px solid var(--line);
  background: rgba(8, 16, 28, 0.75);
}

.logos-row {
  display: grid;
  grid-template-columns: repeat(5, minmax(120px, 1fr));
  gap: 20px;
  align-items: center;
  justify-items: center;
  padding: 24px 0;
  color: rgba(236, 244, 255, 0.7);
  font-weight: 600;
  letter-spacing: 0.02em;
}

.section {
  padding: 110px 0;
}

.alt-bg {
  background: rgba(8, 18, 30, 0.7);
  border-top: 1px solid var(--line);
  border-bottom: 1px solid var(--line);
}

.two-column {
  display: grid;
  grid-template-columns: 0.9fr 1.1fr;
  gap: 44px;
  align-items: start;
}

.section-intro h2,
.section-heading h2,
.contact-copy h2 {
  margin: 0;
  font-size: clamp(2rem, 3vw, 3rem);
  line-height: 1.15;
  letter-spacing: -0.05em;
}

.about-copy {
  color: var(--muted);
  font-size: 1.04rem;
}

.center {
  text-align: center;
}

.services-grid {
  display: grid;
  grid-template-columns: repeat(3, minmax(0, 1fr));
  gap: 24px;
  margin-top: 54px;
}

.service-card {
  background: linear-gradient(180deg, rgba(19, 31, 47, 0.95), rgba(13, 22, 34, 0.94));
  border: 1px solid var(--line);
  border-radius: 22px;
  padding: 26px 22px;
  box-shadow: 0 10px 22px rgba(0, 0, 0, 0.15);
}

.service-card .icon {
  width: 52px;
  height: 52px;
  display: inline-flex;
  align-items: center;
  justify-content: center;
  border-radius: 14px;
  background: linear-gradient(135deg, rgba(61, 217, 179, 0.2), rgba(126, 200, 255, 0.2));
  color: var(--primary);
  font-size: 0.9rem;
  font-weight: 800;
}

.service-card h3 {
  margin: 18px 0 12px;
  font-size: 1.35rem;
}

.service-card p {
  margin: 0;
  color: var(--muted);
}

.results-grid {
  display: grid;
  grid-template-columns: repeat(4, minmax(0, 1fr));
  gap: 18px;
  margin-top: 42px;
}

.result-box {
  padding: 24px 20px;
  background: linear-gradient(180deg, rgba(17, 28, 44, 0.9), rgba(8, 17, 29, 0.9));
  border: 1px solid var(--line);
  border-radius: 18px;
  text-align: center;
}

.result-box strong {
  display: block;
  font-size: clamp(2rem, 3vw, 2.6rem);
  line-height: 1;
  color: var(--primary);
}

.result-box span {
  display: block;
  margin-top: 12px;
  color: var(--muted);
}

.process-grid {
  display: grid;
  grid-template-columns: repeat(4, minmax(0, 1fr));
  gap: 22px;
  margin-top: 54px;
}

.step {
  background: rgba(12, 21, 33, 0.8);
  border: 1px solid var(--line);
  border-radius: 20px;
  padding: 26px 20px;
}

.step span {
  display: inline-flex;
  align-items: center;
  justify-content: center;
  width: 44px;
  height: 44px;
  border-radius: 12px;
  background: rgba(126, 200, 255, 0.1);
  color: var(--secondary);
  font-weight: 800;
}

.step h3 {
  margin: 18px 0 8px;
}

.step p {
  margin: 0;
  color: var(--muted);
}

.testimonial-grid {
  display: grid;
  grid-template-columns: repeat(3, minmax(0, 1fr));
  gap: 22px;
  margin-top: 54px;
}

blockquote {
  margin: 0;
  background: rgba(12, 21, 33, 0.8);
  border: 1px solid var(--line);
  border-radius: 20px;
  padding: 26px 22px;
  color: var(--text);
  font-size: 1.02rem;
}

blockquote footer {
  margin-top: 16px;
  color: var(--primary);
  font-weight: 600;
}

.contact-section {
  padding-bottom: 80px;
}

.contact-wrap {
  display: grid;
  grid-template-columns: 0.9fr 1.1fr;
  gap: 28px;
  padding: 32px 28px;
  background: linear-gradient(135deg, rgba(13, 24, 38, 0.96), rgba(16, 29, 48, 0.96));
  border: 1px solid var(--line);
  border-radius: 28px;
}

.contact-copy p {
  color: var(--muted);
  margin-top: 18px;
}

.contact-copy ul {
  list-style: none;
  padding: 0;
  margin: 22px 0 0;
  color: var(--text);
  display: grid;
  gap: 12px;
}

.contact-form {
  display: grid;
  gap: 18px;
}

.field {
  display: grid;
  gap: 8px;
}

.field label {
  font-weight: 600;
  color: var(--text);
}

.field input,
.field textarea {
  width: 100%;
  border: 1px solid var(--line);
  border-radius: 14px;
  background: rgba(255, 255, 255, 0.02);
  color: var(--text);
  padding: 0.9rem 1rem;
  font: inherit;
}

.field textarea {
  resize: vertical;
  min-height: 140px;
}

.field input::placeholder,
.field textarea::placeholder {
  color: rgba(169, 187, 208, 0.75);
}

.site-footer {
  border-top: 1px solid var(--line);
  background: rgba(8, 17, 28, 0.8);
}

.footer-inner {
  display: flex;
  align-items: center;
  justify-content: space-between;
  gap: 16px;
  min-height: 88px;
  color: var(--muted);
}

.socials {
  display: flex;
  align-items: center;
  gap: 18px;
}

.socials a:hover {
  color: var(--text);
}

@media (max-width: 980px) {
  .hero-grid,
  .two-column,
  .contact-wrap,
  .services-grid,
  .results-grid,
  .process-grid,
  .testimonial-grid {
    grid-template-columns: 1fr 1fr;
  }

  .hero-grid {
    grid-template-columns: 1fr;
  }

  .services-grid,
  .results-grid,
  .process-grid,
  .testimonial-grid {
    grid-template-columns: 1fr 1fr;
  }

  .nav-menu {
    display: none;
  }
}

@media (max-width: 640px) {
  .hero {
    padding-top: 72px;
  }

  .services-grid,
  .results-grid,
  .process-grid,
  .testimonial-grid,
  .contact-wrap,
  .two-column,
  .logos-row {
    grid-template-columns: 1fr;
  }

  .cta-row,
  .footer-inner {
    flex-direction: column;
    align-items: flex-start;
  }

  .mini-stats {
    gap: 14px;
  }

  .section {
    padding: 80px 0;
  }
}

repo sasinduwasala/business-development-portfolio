@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Servicios de desarrollo de negocio para empresas y emprendedores en América Latina. Estrategias de crecimiento, ventas, partnerships y expansión comercial."
+    />
+    <title>Sasindu Wasala | Business Development</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav">
+        <div class="brand">
+          <span class="brand-mark">SW</span>
+          <span>Sasindu Wasala</span>
+        </div>
+        <nav class="nav-menu">
+          <a href="#about">Sobre mí</a>
+          <a href="#services">Servicios</a>
+          <a href="#results">Resultados</a>
+          <a href="#testimonials">Testimonios</a>
+          <a href="#contact">Contacto</a>
+        </nav>
+        <a class="btn btn-primary" href="#contact">Hablemos</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <span class="eyebrow">Desarrollo de negocio · América Latina</span>
+            <h1>
+              Impulso el crecimiento de tu negocio
+              <span>en Latinoamérica</span>
+            </h1>
+            <p>
+              Ayudo a empresas, emprendedores y profesionales a generar más ventas,
+              fortalecer alianzas estratégicas y crear oportunidades de expansión con
+              estrategias claras, sostenibles y orientadas a resultados.
+            </p>
+            <div class="cta-row">
+              <a class="btn btn-primary" href="#contact">Solicitar consulta</a>
+              <a class="btn btn-secondary" href="#services">Ver servicios</a>
+            </div>
+            <ul class="mini-stats">
+              <li><strong>+120</strong><span>oportunidades</span></li>
+              <li><strong>5+</strong><span>años de estrategia</span></li>
+              <li><strong>LATAM</strong><span>enfoque regional</span></li>
+            </ul>
+          </div>
+
+          <div class="hero-card">
+            <div class="card-top">
+              <span class="badge">Business Growth</span>
+              <span class="pulse"></span>
+            </div>
+            <h3>Roadmap de crecimiento</h3>
+            <div class="metric-list">
+              <div>
+                <label>Ventas</label>
+                <strong>+38%</strong>
+              </div>
+              <div>
+                <label>Lead generation</label>
+                <strong>+52%</strong>
+              </div>
+              <div>
+                <label>Partnerships</label>
+                <strong>12 nuevas</strong>
+              </div>
+            </div>
+            <div class="chart-bars">
+              <span style="height: 40%"></span>
+              <span style="height: 55%"></span>
+              <span style="height: 65%"></span>
+              <span style="height: 82%"></span>
+              <span style="height: 100%"></span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="logos">
+        <div class="container logos-row">
+          <span>Consultoría</span>
+          <span>Ventas</span>
+          <span>Expansión</span>
+          <span>Partnerships</span>
+          <span>Market Entry</span>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="container two-column">
+          <div class="section-intro">
+            <span class="eyebrow">Sobre mí</span>
+            <h2>Te ayudo a transformar oportunidades en crecimiento real.</h2>
+          </div>
+          <div class="about-copy">
+            <p>
+              Soy un consultor de desarrollo de negocio enfocado en mercados
+              latinos. Me especializo en ayudar a empresas y emprendedores a crear
+              estrategias de ventas, atraer clientes, abrir nuevas oportunidades y
+              construir relaciones que impulsen crecimiento sostenible.
+            </p>
+            <p>
+              Mi trabajo combina análisis, estrategia comercial y ejecución práctica,
+              para que cada acción esté alineada con tus objetivos de crecimiento y
+              tu contexto regional.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="services" class="section alt-bg">
+        <div class="container">
+          <div class="section-heading center">
+            <span class="eyebrow">Servicios</span>
+            <h2>Soluciones para hacer crecer tu negocio</h2>
+          </div>
+
+          <div class="services-grid">
+            <article class="service-card">
+              <div class="icon">01</div>
+              <h3>Estrategia de negocio</h3>
+              <p>
+                Desarrollo de planes de crecimiento, posicionamiento y expansión para
+                mercados emergentes y competitivos.
+              </p>
+            </article>
+
+            <article class="service-card">
+              <div class="icon">02</div>
+              <h3>Generación de leads</h3>
+              <p>
+                Identificación de oportunidades, prospección y construcción de funnels
+                que convierten interés en clientes reales.
+              </p>
+            </article>
+
+            <article class="service-card">
+              <div class="icon">03</div>
+              <h3>Gestión de ventas</h3>
+              <p>
+                Mejora de procesos comerciales, soporte en cierre, seguimiento y
+                optimización del pipeline de ventas.
+              </p>
+            </article>
+
+            <article class="service-card">
+              <div class="icon">04</div>
+              <h3>Partnerships</h3>
+              <p>
+                Conexión con aliados estratégicos, redes comerciales y oportunidades de
+                colaboración para ampliar alcance.
+              </p>
+            </article>
+
+            <article class="service-card">
+              <div class="icon">05</div>
+              <h3>Investigación de mercado</h3>
+              <p>
+                Análisis de demanda, comportamiento del cliente, competidores y
+                segmentos clave para decisiones más sólidas.
+              </p>
+            </article>
+
+            <article class="service-card">
+              <div class="icon">06</div>
+              <h3>Consultoría ejecutiva</h3>
+              <p>
+                Acompañamiento estratégico para líderes, founders y equipos que buscan
+                escalar con claridad y enfoque.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="results" class="section">
+        <div class="container">
+          <div class="section-heading">
+            <span class="eyebrow">Resultados</span>
+            <h2>Cómo ayudo a las empresas a crecer</h2>
+          </div>
+
+          <div class="results-grid">
+            <div class="result-box">
+              <strong>38%</strong>
+              <span>aumento de ventas</span>
+            </div>
+            <div class="result-box">
+              <strong>52%</strong>
+              <span>más oportunidades cualificadas</span>
+            </div>
+            <div class="result-box">
+              <strong>12</strong>
+              <span>alianzas estratégicas creadas</span>
+            </div>
+            <div class="result-box">
+              <strong>90 días</strong>
+              <span>para estructurar acciones clave</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section alt-bg process">
+        <div class="container">
+          <div class="section-heading center">
+            <span class="eyebrow">Proceso</span>
+            <h2>Un enfoque claro para crecer sin ruido</h2>
+          </div>
+
+          <div class="process-grid">
+            <div class="step">
+              <span>01</span>
+              <h3>Diagnóstico</h3>
+              <p>Reviso tu modelo de negocio, mercado y oportunidades reales.</p>
+            </div>
+            <div class="step">
+              <span>02</span>
+              <h3>Plan estratégico</h3>
+              <p>Defino prioridades, canales y métricas que importan.</p>
+            </div>
+            <div class="step">
+              <span>03</span>
+              <h3>Ejecución</h3>
+              <p>Actuamos con enfoque para convertir estrategia en resultados.</p>
+            </div>
+            <div class="step">
+              <span>04</span>
+              <h3>Optimización</h3>
+              <p>Medimos, ajustamos y escalamos lo que funciona mejor.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="testimonials" class="section">
+        <div class="container">
+          <div class="section-heading center">
+            <span class="eyebrow">Testimonios</span>
+            <h2>Lo que dicen mis clientes</h2>
+          </div>
+
+          <div class="testimonial-grid">
+            <blockquote>
+              “Gracias a la estrategia propuesta, logramos mejorar significativamente
+              nuestras oportunidades comerciales y reforzar nuestro posicionamiento en el
+              mercado.”
+              <footer>— CEO, empresa de servicios</footer>
+            </blockquote>
+            <blockquote>
+              “El enfoque fue claro, práctico y orientado a resultados. Pudimos abrir
+              nuevas rutas de crecimiento con menos incertidumbre.”
+              <footer>— Founder, negocio digital</footer>
+            </blockquote>
+            <blockquote>
+              “Muy útil para estructurar ventas y alianzas. El trabajo me ayudó a tomar
+              decisiones con mayor confianza.”
+              <footer>— Director comercial</footer>
+            </blockquote>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact-section">
+        <div class="container contact-wrap">
+          <div class="contact-copy">
+            <span class="eyebrow">Contacto</span>
+            <h2>¿Listo para escalar tu negocio?</h2>
+            <p>
+              Hablemos sobre tus metas, tu mercado y la mejor estrategia para generar
+              crecimiento sostenible en América Latina.
+            </p>
+            <ul>
+              <li>Email: hello@sasinduwasala.com</li>
+              <li>WhatsApp: +51 999 999 999</li>
+              <li>LinkedIn: /in/sasinduwasala</li>
+            </ul>
+          </div>
+
+          <form class="contact-form">
+            <div class="field">
+              <label for="name">Nombre</label>
+              <input id="name" type="text" placeholder="Tu nombre" />
+            </div>
+            <div class="field">
+              <label for="email">Email</label>
+              <input id="email" type="email" placeholder="tu@email.com" />
+            </div>
+            <div class="field">
+              <label for="message">Mensaje</label>
+              <textarea id="message" rows="5" placeholder="Cuéntame sobre tu negocio"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar mensaje</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>© 2026 Sasindu Wasala. Todos los derechos reservados.</p>
+        <div class="socials">
+          <a href="#">LinkedIn</a>
+          <a href="#">WhatsApp</a>
+          <a href="#">Email</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
